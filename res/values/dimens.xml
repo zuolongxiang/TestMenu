@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 是否居中显示 -->
+    <bool name="default_circle_indicator_centered">true</bool>
+
+    <!-- 选中时的颜色 -->
+    <color name="default_circle_indicator_fill_color">#FFFFFF</color>
+    <!-- 未选中时的颜色 -->
+    <color name="default_circle_indicator_page_color">#60FFFFFF</color>
+    <!-- E93333 -->
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <!-- 圆点的半径大小 -->
+    <dimen name="default_circle_indicator_radius">3.5dip</dimen>
+    <!-- 选择false时会有滑动动画 -->
+    <bool name="default_circle_indicator_snap">false</bool>
+    <!-- 未选中时周围圈的颜色 -->
+    <color name="default_circle_indicator_stroke_color">#FF0000</color>
+    <!-- FF0000 -->
+    <!-- 未选中时周围圈的宽度 -->
+    <dimen name="default_circle_indicator_stroke_width">0dip</dimen>
+
+</resources>
